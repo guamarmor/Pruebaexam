@@ -1,7 +1,3 @@
-/**
- * Clase a probar en el c�digo ejemplo para el control de junio 2024
- */
-package muit.fs.junio24;
 
 /**
  * @author Isabel Rom�n
