@@ -23,7 +23,9 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Construcción del proyecto (.jar)
-        run: echo "Construcción realizada por: solmunjim"
+        run: | 
+          echo "Construcción realizada por: solmunjim"
 
       - name: Ejecutar los tests
-        run: echo "Tests ejecutados por: solmunjim"
+        run: |
+          echo "Tests ejecutados por: solmunjim"
