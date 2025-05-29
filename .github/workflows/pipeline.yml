@@ -30,4 +30,4 @@ jobs:
       - name: Ejecutar los tests
         run: |
           ./gradlew test 
-          echo "Tests ejecutados por: solmunjim"
+          echo "Tests ejecutados por: solmunjim"
