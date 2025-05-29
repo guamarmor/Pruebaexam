@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FirstDayAtSchoolTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-29T06:40:11.211Z" hostname="GUADALUPEMARTÖN" time="0.038">
+  <properties/>
+  <testcase name="testAddElements()" classname="org.example.FirstDayAtSchoolTest" time="0.016"/>
+  <testcase name="testPrepareMyBag()" classname="org.example.FirstDayAtSchoolTest" time="0.005"/>
+  <testcase name="testCleanBag()" classname="org.example.FirstDayAtSchoolTest" time="0.003"/>
+  <testcase name="testConstructor()" classname="org.example.FirstDayAtSchoolTest" time="0.002"/>
+  <system-out><![CDATA[Inside testAddElements()
+Inside testPrepareMyBag()
+Inside testCleanBag()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
